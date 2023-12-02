@@ -1,0 +1,74 @@
+body {
+    background-image: url(unreal\ proof.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+section {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: white;
+    color: black;
+    width: 850px;
+    margin-top: 50px;
+    border-radius: 40px;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+hr {
+    width: 80%;
+    border: 1px solid black;
+    margin-bottom: 60px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: -10px;
+}
+
+img {
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 15px;
+}
+
+div {
+    width: 700px;
+    height: 200px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    margin: 30px;
+}
+
+span {
+    font-size: 1.2rem;
+    text-shadow: 4px 4px 4px black;
+}
+
+div p {
+    margin-left: -182px;
+    width: 70%;
+    font-size: 1.4rem;
+}
+
+.style2 {
+    border: none;
+    display: flex;
+    flex-direction: column;
+}
+
+h2 {
+    font-size: 1.6rem;
+    transform: translate(-128px, 10px);
+}
